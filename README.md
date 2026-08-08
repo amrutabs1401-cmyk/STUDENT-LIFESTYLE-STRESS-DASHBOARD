@@ -64,10 +64,6 @@ The dashboard supports dynamic filtering by:
 
 *(Add details here — e.g., dataset name, source link such as Kaggle, and a brief description of the columns used: Student_Type, Sleep_Hours, Study_Hours, Attendance, Stress_Level, Social_Media_Usage, Exam_Pressure, Family_Support.)*
 
-## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
 
-## 🙋‍♂️ Author
 
-*(Add your name, LinkedIn, and portfolio link here.)*
